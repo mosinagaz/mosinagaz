@@ -25,13 +25,13 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,vite,tailwind,mysql,sqlite,androidstudio,kotlin,linux,nginx,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,js,ts,react,vite,tailwind,mysql,sqlite,androidstudio,kotlin,linux,nginx,docker,git&perline=8" />
 </p>
 
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mosinagaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mosinagaz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosinagaz&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
